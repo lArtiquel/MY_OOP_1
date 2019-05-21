@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Matrix.cpp
+  Создание кода...
+d:\artyom\visual studia projects\oop first laba\oop first laba\matrix.cpp(51): warning C4715: Matrix::chooseMatrix: значение возвращается не при всех путях выполнения
+  OOP first laba.vcxproj -> D:\Artyom\VISUAL STUDIA PROJECTS\OOP first laba\Debug\OOP first laba.exe
