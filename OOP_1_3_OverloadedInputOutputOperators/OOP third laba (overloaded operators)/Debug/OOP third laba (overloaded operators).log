@@ -1,0 +1,22 @@
+﻿  main.cpp
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2433: ostream: "friend" не разрешается для объявлений данных
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2238: непредвиденные лексемы перед ";"
+  Matrix.cpp
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2433: ostream: "friend" не разрешается для объявлений данных
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): error C2238: непредвиденные лексемы перед ";"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C2872: ostream: неоднозначный символ
+  d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): note: может быть "int ostream"
+  d:\artyom\visual studio\vc\tools\msvc\14.15.26726\include\iosfwd(618): note: или       "std::ostream"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C2086: int ostream: переопределение
+  d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.h(30): note:  см. объявление "ostream"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C2065: os: необъявленный идентификатор
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(192): error C2059: синтаксическая ошибка: const
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(193): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+d:\artyom\visual studia projects\oop third laba (overloaded operators)\oop third laba (overloaded operators)\matrix.cpp(193): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Создание кода...
