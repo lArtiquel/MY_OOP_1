@@ -1,0 +1,31 @@
+﻿  main.cpp
+d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(93): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(85): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(60): note: выполняется компиляция ссылки на экземпляр шаблон функции "T **Matrix<T>::fillMatrix(Matrix<T> *,int)"
+          with
+          [
+              T=int
+          ]
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(54): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\main.cpp(55): note: выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<int>::Matrix(int,int,int)"
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\main.cpp(55): note: выполняется компиляция ссылки на экземпляр шаблон класс "Matrix<int>"
+d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(93): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(85): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(60): note: выполняется компиляция ссылки на экземпляр шаблон функции "T **Matrix<T>::fillMatrix(Matrix<T> *,int)"
+          with
+          [
+              T=char
+          ]
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(54): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\main.cpp(57): note: выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<char>::Matrix(int,int,int)"
+  d:\artyom\visual studia projects\oop 7th laba\templates\templates\main.cpp(57): note: выполняется компиляция ссылки на экземпляр шаблон класс "Matrix<char>"
+d:\artyom\visual studia projects\oop 7th laba\templates\templates\matrix.h(303): warning C4715: chooseMatrix: значение возвращается не при всех путях выполнения
+  templates.vcxproj -> D:\Artyom\VISUAL STUDIA PROJECTS\OOP 7th laba\templates\Debug\templates.exe
