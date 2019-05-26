@@ -1,0 +1,15 @@
+﻿  String.cpp
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(157): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(188): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(211): warning C4018: <: несоответствие типов со знаком и без знака
+d:\artyom\visual studia projects\my_oop_1sem\lex_oop_1_2_string_class\lex_oop_1_2_string_class\string.cpp(241): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+  LEX_OOP_1_2_String_class.vcxproj -> D:\Artyom\VISUAL STUDIA PROJECTS\MY_OOP_1sem\LEX_OOP_1_2_String_class\Debug\LEX_OOP_1_2_String_class.exe
